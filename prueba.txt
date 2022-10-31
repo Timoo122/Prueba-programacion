@@ -1,0 +1,41 @@
+prueba programación 
+A) definir que es una función 
+ejercicio número 1
+dada la siguiente funcion indicar la respuesta correcta 
+
+def suma 5y7 ():
+    print(f"el resultado es {5+7}")
+ -----> imprimir resultado (agregar codigo)
+
+seleccionar la opción correcta:
+a: obtenemos 5 en pantalla 
+b: obtenemos un error
+c: aparece un asterisco en pantalla
+d: aparece un 12 en pantalla 
+e: ninguna es correcta 
+
+Ejercicio numero 2 
+
+MIVariable=13
+def Funcion(Parámetro) 
+    Variable=13
+   print(f"La Variable Global que hemos definido antes valia {MiVariable}")
+   print(f"el valor de la variable local es {Variable}")
+   print(f"el párametro con el que llamamos a la funion  vale {parametro}")  
+Funcion("programación")
+
+
+a: indicar cuál es el parámetro de la función y la variable dentro del contexto de la función. ¿son o no accesibles?
+b: indicar cuál es la variable global, la variable local y el parámetro 
+c: indicar qué valor toma el parámetro
+
+
+respuestas:
+A) una funcion es un bloque de codigo que se encarga de realizar una accion especifica. esta define los parametros de entrada que permite pasar los argumentos a la funcion 
+
+la opcion correcta es la opcion d: aparece un 12 en pantalla 
+imprime "el resultado es 12"
+
+2) a: el parametro de la funcion es:"Programacion"  no son accesibles por queb ninguno se encuetra dentro de la funcion 
+   b: la variable global es "MiVariable", la variable local es "Variable" y el parametro es "Parametro"
+   c: el valor que toma e parametro es "programacio"
